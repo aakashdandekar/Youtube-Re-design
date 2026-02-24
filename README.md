@@ -1,62 +1,96 @@
-# 📺 YouTube Redesign
+# 🎬 YouTube Redesign
 
-A front-end redesign concept of YouTube built with pure HTML, CSS, and JavaScript — my first web development project!
+A frontend redesign of YouTube built with pure **HTML**, **CSS**, and **JavaScript** — no frameworks, no libraries, just the basics. This was my first web development project!
 
-## 🖥️ Live Preview
+---
 
-> Open `index.html` in your browser to view the project locally.
+## 📸 Preview
+
+> *(Add a screenshot of your project here)*
+
+---
+
+## 🚀 Features
+
+- Redesigned YouTube homepage layout
+- Custom navigation bar / header
+- Video card grid with thumbnails, titles, and channel info
+- Hover effects and smooth UI interactions
+- Responsive-friendly design
+- Built with inline JavaScript for basic interactivity
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Page structure and layout |
+| CSS3 | Styling, animations, and responsiveness |
+| JavaScript (Inline) | Interactive elements and DOM manipulation |
+
+---
 
 ## 📁 Project Structure
 
 ```
-youtube-redesign/
-│
-├── index.html        # Main HTML file with inline JavaScript
-├── style.css         # Custom CSS styles
-└── README.md         # You're reading it!
+Youtube-Re-design/
+├── index.html       # Main HTML file
+├── style.css        # Stylesheet
+└── README.md        # Project documentation
 ```
 
-## ✨ Features
+---
 
-- Redesigned YouTube-inspired UI
-- Custom layout and color scheme
-- Responsive-style design elements
-- Built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries
+## 🏃 How to Run
 
-## 🛠️ Built With
-
-- **HTML5** — Page structure and content
-- **CSS3** — Styling, layout, and visual design
-- **JavaScript (Inline)** — Basic interactivity
-
-## 🚀 Getting Started
-
-1. Clone or download this repository:
+1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/youtube-redesign.git
+   git clone https://github.com/your-username/Youtube-Re-design.git
    ```
-2. Navigate into the project folder:
+
+2. **Open the project**
    ```bash
-   cd youtube-redesign
+   cd Youtube-Re-design
    ```
-3. Open `index.html` in any web browser — no server or install needed!
 
-## 🎯 Purpose
+3. **Launch in browser**
+   - Simply open `index.html` in any modern web browser
+   - No server or installation needed!
 
-This is my **first web development project**, created to practice and apply the fundamentals of:
-- HTML page structure
-- CSS styling and layout
-- Basic DOM interaction with JavaScript
+---
 
-## 📸 Screenshots
+## 💡 What I Learned
 
-> *(Add screenshots of your project here once it's live!)*
+- Structuring a webpage using semantic HTML
+- Styling layouts with CSS Flexbox and Grid
+- Writing basic JavaScript for interactivity
+- Recreating a real-world UI from scratch
+- Using GitHub to host and share a project
 
-## 🙌 Acknowledgements
+---
 
-- Inspired by [YouTube](https://www.youtube.com)
-- Built from scratch as a learning exercise
+## 🔮 Future Improvements
+
+- [ ] Make it fully responsive for mobile devices
+- [ ] Add a functional search bar
+- [ ] Include a dark/light mode toggle
+- [ ] Add more pages (watch page, trending, etc.)
+- [ ] Migrate JS to an external file
+
+---
+
+## 🙋 Author
+
+**Your Name**
+- GitHub: [@your-username](https://github.com/your-username)
+
+---
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+> ⭐ If you like this project, feel free to give it a star!
