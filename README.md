@@ -31,17 +31,6 @@ A frontend redesign of YouTube built with pure **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 📁 Project Structure
-
-```
-Youtube-Re-design/
-├── index.html       # Main HTML file
-├── style.css        # Stylesheet
-└── README.md        # Project documentation
-```
-
----
-
 ## 🏃 How to Run
 
 1. **Clone the repository**
@@ -83,13 +72,7 @@ Youtube-Re-design/
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+- GitHub: [@your-username](https://github.com/aakashdandekar)
 
 ---
 
